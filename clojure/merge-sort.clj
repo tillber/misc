@@ -1,4 +1,4 @@
-(ns clojure.examples.sort
+(ns clojure.misc.sort
     (:require [clojure.string :as str-util])
 	(:gen-class))
 
